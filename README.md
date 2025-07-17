@@ -30,7 +30,6 @@ Amacımız; temiz kod, iyi yapılandırılmış bir proje ve **JWT** ile kimlik 
 
 ## ⚙️ Projeyi Çalıştırmak İçin
 
-```bash
 go run main.go
 
 Projeyi başlattıktan sonra REST API'niz çalışmaya başlayacak.
